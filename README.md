@@ -104,9 +104,13 @@ python val.py
 <p align="center"> <img src="Fig/result.png" width="80%"> </p>
 
 ## Acknowledgements
-This code is built on [ultralytics (PyTorch)](https://github.com/ultralytics/ultralytics). We thank the authors for sharing the codes.
+This code is built on [ultralytics (PyTorch)](https://github.com/ultralytics/ultralytics).
 
-In the comparative experiment, Faster RCNN, YOLOX, and RTMDet networks were replicated using [mmdetection](https://github.com/open-mmlab/mmdetection).We thank the authors for sharing the codes.
+We thank the authors for sharing the codes.
+
+In the comparative experiment, Faster RCNN, YOLOX, and RTMDet networks were replicated using [mmdetection](https://github.com/open-mmlab/mmdetection).
+
+We thank the authors for sharing the codes.
 
 ## Contact
 If you have any questions, please contact me by email (lazyshark2001@gmail.com).
