@@ -105,6 +105,7 @@ python val.py
 
 ## Acknowledgements
 This code is built on [ultralytics (PyTorch)](https://github.com/ultralytics/ultralytics). We thank the authors for sharing the codes.
+
 In the comparative experiment, Faster RCNN, YOLOX, and RTMDet networks were replicated using [mmdetection](https://github.com/open-mmlab/mmdetection).We thank the authors for sharing the codes.
 
 ## Contact
