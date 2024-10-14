@@ -27,7 +27,7 @@ If our code is helpful to you, please cite:
 pip install -r requirements.txt
 ```
 
-<p align="center"> <img src="Fig/FDADNet.png" width="80%"> </p>
+<p align="center"> <img src="Fig/FDADNet.png" width="100%"> </p>
 
 
 [//]: # (## Train)
@@ -95,13 +95,13 @@ python val.py
 
 2024.8.6 Upload Dataset
 
-<p align="center"> <img src="Fig/MFDW.png" width="80%"> </p>
-<p align="center"> <img src="Fig/ADConv.png" width="80%"> </p>
+<p align="center"> <img src="Fig/MFDW.png" width="100%"> </p>
+<p align="center"> <img src="Fig/ADConv.png" width="100%"> </p>
 
 2024.10.14 Upload readme
 
 ## Visualization of results
-<p align="center"> <img src="Fig/result.png" width="80%"> </p>
+<p align="center"> <img src="Fig/result.png" width="100%"> </p>
 
 ## Acknowledgements
 This code is built on [ultralytics (PyTorch)](https://github.com/ultralytics/ultralytics). We thank the authors for sharing the codes.
