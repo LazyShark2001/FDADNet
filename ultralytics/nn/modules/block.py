@@ -759,7 +759,6 @@ class InvertedDepthWiseConv1d(nn.Module):
 
         self.conv = nn.Sequential(*layers)
 
-        # 前向传播函数
     def forward(self, x):
         if self.use_shortcut:
             return x + self.conv(x)
